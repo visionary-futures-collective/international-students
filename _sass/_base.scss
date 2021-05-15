@@ -45,10 +45,10 @@ p {
 .bg-primary {
     background-color: $theme-primary;
     a {
-        color: #118ab2;
+        color: #073b4c;
         &:hover,
         &:focus {
-            color: darken(#118ab2, 10%);
+            color: darken(#073b4c, 10%);
             }
     }
 }
